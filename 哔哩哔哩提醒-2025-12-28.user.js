@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         哔哩哔哩提醒
+// @license      GNU General Public License v3.0
 // @namespace    http://tampermonkey.net/
 // @version      2025-12-28
-// @description  try to take over the world!
+// @description  通过对哔哩哔哩进行篡改，使用户沉迷哔哩哔哩的状态减轻。同时脚本内有白名单，如果需要，可以在油猴中进行增加白名单。
 // @author       yukigamau
 // @match        https://www.bilibili.com/
 // @match        https://www.bilibili.com/*
